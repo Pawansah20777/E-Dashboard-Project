@@ -41,6 +41,4 @@ app.post('/add-product', async (req,resp)=>{
 });
 
 
-
-
 app.listen(5000);
